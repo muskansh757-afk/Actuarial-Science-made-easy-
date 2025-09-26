@@ -14,7 +14,8 @@ concept of the **1-year net single premium (NSP)** from actuarial science.
 The plot below shows how the premium is high at very young ages (due to infant mortality), 
 very low in mid-life, and rises sharply in old age. 
 
-![Premium vs Age](plot.png)
+![Premium vs Age](premium_vs_age.png)
+
 
 ## Next Steps
 - Extend to n-year term insurance
